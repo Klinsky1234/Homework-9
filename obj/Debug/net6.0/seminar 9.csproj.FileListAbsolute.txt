@@ -1,0 +1,15 @@
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\obj\Debug\net6.0\seminar 9.csproj.AssemblyReference.cache
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\obj\Debug\net6.0\seminar 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\obj\Debug\net6.0\seminar 9.AssemblyInfoInputs.cache
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\obj\Debug\net6.0\seminar 9.AssemblyInfo.cs
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\obj\Debug\net6.0\seminar 9.csproj.CoreCompileInputs.cache
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\bin\Debug\net6.0\seminar 9.exe
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\bin\Debug\net6.0\seminar 9.deps.json
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\bin\Debug\net6.0\seminar 9.runtimeconfig.json
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\bin\Debug\net6.0\seminar 9.dll
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\bin\Debug\net6.0\seminar 9.pdb
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\obj\Debug\net6.0\seminar 9.dll
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\obj\Debug\net6.0\refint\seminar 9.dll
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\obj\Debug\net6.0\seminar 9.pdb
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\obj\Debug\net6.0\seminar 9.genruntimeconfig.cache
+D:\GB\C#\Семинар 9. Рекурсия\seminar 9\obj\Debug\net6.0\ref\seminar 9.dll
